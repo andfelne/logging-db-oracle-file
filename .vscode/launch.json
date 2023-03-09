@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LoggingApplication<loggingdoitright>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.project.loggingdoitright.LoggingApplication",
+            "projectName": "loggingdoitright",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

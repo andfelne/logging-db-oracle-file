@@ -1,0 +1,17 @@
+spring:
+  datasource:
+#   Conexion para Oracle
+    url: jdbc:oracle:thin:@localhost:1521:ORCLCDB
+    username: CHILEAPP_TEST
+    password: chile123
+    driver-class-name: oracle.jdbc.OracleDriver
+
+# Conexion para MySQL
+    # url: jdbc:mysql://localhost:3306/logs
+    # username: root
+    # password: root
+    # driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update

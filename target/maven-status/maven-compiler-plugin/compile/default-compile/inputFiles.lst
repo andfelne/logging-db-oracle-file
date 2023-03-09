@@ -1,0 +1,15 @@
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\aspect\LoggingAspect.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\transversal\Constant.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\model\Catalog.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\service\implementation\CatalogServiceImpl.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\controller\CatalogController.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\service\CatalogService.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\controller\ControllerExceptionHandler.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\transversal\TimeHelper.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\configuration\RestConfiguration.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\configuration\RequestInterceptor.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\LoggingApplication.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\repository\CatalogRepository.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\configuration\RequestAdviceAdapter.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\transversal\Message.java
+D:\Negrete\Tutorials-Spring\logging_do_it_right\src\main\java\com\project\loggingdoitright\transversal\Response.java

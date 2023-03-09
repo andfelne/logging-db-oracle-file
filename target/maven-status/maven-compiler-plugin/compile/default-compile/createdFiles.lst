@@ -1,0 +1,15 @@
+com\project\loggingdoitright\transversal\Constant.class
+com\project\loggingdoitright\transversal\Response.class
+com\project\loggingdoitright\configuration\RestConfiguration.class
+com\project\loggingdoitright\transversal\Message.class
+com\project\loggingdoitright\transversal\TimeHelper.class
+com\project\loggingdoitright\repository\CatalogRepository.class
+com\project\loggingdoitright\controller\CatalogController.class
+com\project\loggingdoitright\configuration\RequestAdviceAdapter.class
+com\project\loggingdoitright\LoggingApplication.class
+com\project\loggingdoitright\controller\ControllerExceptionHandler.class
+com\project\loggingdoitright\configuration\RequestInterceptor.class
+com\project\loggingdoitright\service\implementation\CatalogServiceImpl.class
+com\project\loggingdoitright\model\Catalog.class
+com\project\loggingdoitright\service\CatalogService.class
+com\project\loggingdoitright\aspect\LoggingAspect.class
